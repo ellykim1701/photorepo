@@ -13,6 +13,7 @@ Photos are securely uploaded into the `staticfiles` folder, or they can also be 
 - Bootstrap (HTML/CSS/JavaScript)
 - AWS (Amazon S3 Bucket/IAM)
 
+## Overview
 1. Main Page
 <img width="1368" alt="Screen Shot 2021-04-25 at 6 22 43 PM" src="https://user-images.githubusercontent.com/70910096/116011696-3ed9da80-a5f4-11eb-92f8-9d4b36801980.png">
 
