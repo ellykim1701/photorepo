@@ -1,5 +1,5 @@
 # photorepo-bakers
-A photo repository where bakers can securely upload and store photos of their baked goods
+A photo repository where users can securely upload and store photos of their baked goods
 
 ## Description 
 In the main page, photos will be grouped by their categories. 
@@ -9,7 +9,7 @@ Photos are securely uploaded into the `staticfiles` folder, or they can also be 
 
 ## Technical Skills Used
 - Python
-- Django (+Third Party Package-AllAuth)
+- Django (+ Third Party Authentication Package - AllAuth)
 - Bootstrap (HTML/CSS/JavaScript)
 - AWS (Amazon S3 Bucket/IAM)
 
